@@ -1,8 +1,7 @@
-flask
-flask-cors
-tensorflow
-pandas
-numpy
-joblib
-requests
-os
+flask==3.1.2
+flask-cors==4.0.0
+tensorflow==2.15.0
+pandas==2.2.2
+numpy==1.26.4
+joblib==1.3.2
+requests==2.31.0
